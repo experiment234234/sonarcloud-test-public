@@ -6,5 +6,9 @@ public class Test {
     System.out.println("blah");
   }
   
+  public static void blah() {
+    return null;
+  }
+  
   
 }
