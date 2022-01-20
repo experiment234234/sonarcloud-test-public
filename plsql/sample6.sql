@@ -81,6 +81,7 @@ int n;
    
    if (n == 1)
    {
+      EXEC SQL DELETE from myTable;
    }
 
    if (n == 0)
